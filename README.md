@@ -1,2 +1,2 @@
 # ShamiereContant-portfolio
-This is my portfolio showcasing my expertise in business analytics, data science, and psychology. My portfolio includes detailed projects, professional experiences, educational background, and a comprehensive overview of technical and interpersonal skills. 
+This is my portfolio showcasing my expertise in business analytics, data science, and psychology. My portfolio includes detailed projects, professional experiences, educational background, and a comprehensive overview of technical and interpersonal skills. It serves as a dynamic platform to demonstrate proficiency in data-driven decision-making, statistical analysis, and data visualization.
